@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-gg
-=======
-a
->>>>>>> branch1
-=======
-aa
->>>>>>> branch1
+aaaaa
